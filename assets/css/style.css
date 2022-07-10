@@ -2,6 +2,7 @@
 main{
     font-family: 'Poppins', 'Inter';
 }
+
 .flex-container {
     display: flex;
     background-color: black;
