@@ -13,7 +13,7 @@ main{
     font-size: 30px;
     color: white;
   }
-  
+
   nav:nth-child(2) {
     margin-left: 20px;
   }
@@ -21,6 +21,7 @@ main{
     float: left;
     justify-content: left;
 }
+
 .landingImage{
     height: auto;
     padding-left: 4%;
