@@ -13,6 +13,7 @@ main{
     font-size: 30px;
     color: white;
   }
+  
   nav:nth-child(2) {
     margin-left: 20px;
   }
